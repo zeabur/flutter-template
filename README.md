@@ -1,6 +1,6 @@
-# flutter_template
+# Flutter Template
 
-A new Flutter project.
+[![Deploy with Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/)
 
 ## Getting Started
 
