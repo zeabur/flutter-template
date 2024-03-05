@@ -1,6 +1,6 @@
 # Flutter Template
 
-[![Deploy with Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/)
+[![Deploy with Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/CCJ3S2)
 
 ## Getting Started
 
